@@ -46,8 +46,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Documentación de proyecto "Nombre"'
-copyright = u'2016, Alumno'
+project = u'Documentación de proyecto "Directorio Casa de la cultura"'
+copyright = u'2016, "Alex Gomez"'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -205,7 +205,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'DocumentacindeproyectoNombre.tex', u'Documentación de proyecto "Nombre" Documentation',
+  ('index', 'DocumentacindeproyectoNombre.tex', u'Documentación de proyecto "Directorio casa de la cultura" Documentation',
    u'Alumno', 'manual'),
 ]
 
